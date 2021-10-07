@@ -1,0 +1,13 @@
+{
+  "name": "eslint-demo",
+  "version": "1.0.0",
+  "description": "eslint demo project",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
